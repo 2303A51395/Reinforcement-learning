@@ -6,3 +6,4 @@
 # [lab-06](https://colab.research.google.com/drive/1xkbI1tXMgWvJQvUH3QbVBHB3rX1QI2D1?usp=sharing)
 # [lab-07](https://colab.research.google.com/drive/1F7xY9ikazSJyYtVXpt-ePPvN_n7L9-8i#scrollTo=GTrZFCusA2f3)
 # [lab-08](https://colab.research.google.com/drive/1XT2trtqoFwAa4bFOr9rt467CNk8wyM5k#scrollTo=J6E7h4dPQDuU)
+# [lab-09](https://colab.research.google.com/drive/1aKzpFZouyn54SxU47b39UMNH5a9FKrp1#scrollTo=ygyxcManPQb4)
